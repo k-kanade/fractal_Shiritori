@@ -38,7 +38,7 @@ COEIROINK:つくよみちゃん
 
 https://coeiroink.com/
 
-COEIROINKを解凍したらengineフォルダがあるのでengine.exeを実行してローカルサーバを立てないと接続エラーがでます。
+COEIROINKを解凍したらengineフォルダがあるのでengine.exeを実行してローカルサーバを立ててください。
 
 ----既知のバグ----
 
@@ -48,6 +48,12 @@ COEIROINKを解凍したらengineフォルダがあるのでengine.exeを実行�
 
 ・「ん」周りにバグがある(詳細わかってません)
 
+
+ダウンロードの直リンクでの配布はなるべく避けて下さい。
+
+再配布とかの場合は「QuizKnockさんの元動画」「COEIROINK」「つくよみちゃん」の3つをなるべくどこかに書いて下さい。
+
+※「COEIROINK」「つくよみちゃん」この2つは規約によりクレジット表記が必須となります。
+
+
 他バグや問題はhttps://x.com/kanade_tuku
-
-
