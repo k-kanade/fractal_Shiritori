@@ -42,3 +42,5 @@ COEIROINKを解凍したらengineフォルダがあるのでengine.exeを実行�
 ・途中にカタカナを受け付けない
 
 ・「ん」周りにバグがある(詳細わかってません)
+
+他バグや問題はhttps://x.com/kanade_tuku
